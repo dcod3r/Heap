@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-
+            /*Heap is used for Dynamically allocation of Memory
+                and it has no fixed Memory umlike Stack*/
 int main()
 {
     int a=10;  //Stored in Stack
@@ -17,5 +18,5 @@ int main()
 
     p=NULL;     //removing pointer
 
-    return 0;
+    return 0;   //Here main Function is Terminated
 }
